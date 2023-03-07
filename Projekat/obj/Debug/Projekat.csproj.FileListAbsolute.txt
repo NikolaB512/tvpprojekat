@@ -1,0 +1,12 @@
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\bin\Debug\Projekat.exe
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\bin\Debug\Projekat.pdb
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.frmPrijava.resources
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.exe
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.pdb
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.Form2.resources
+C:\Users\nikol\OneDrive\Desktop\ProjekatTVP\Projekat\obj\Debug\Projekat.Form3.resources
